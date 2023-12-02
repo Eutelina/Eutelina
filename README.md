@@ -87,7 +87,3 @@ Procedimento Principal
     Escrever("A distância entre as coordenadas originais e suas antípodas em quilômetros, é: ", distancia)
 
 Fim Procedimento
-
-
-
-
